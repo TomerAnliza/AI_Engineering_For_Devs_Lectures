@@ -26,4 +26,11 @@
 
 ## פתוח / הבא בתור
 
-- [ ] push ואימות 20 הקבצים מרחוק; פרסום ב-Classroom ואימות.
+הושלם: כל 20 הקבצים אומתו מרחוק, והפרסום ב-Classroom אומת במצב PUBLISHED בנושא הנכון.
+
+## קישורי התוצאה
+
+- GitHub: https://github.com/TomerAnliza/AI_Engineering_For_Devs_Lectures/tree/docs/tomer-vibe-coding-2026-09-10/vibe
+- Classroom: https://classroom.google.com/c/ODcxMzIzNDg1MTU5/m/ODg0NDEyMTA5ODc5/details
+
+בקשת מיזוג 1 עודכנה להיקף המלא. ההעלאה בענף זמינה לתלמידים גם לפני מיזוג. נכתבה רשומת classroom_publish מסוננת; allow-duplicate מתייחס לפרסום חדש ושונה מהפרסומים הקודמים לאותו קורס ותאריך.

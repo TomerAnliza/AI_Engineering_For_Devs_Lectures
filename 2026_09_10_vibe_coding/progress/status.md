@@ -1,8 +1,10 @@
 # תמונת מצב
 
-**עדכון אחרון:** 10 בספטמבר 2026 (סשן 11), `codex/tomer`
+**עדכון אחרון:** 10 בספטמבר 2026 (סשן 12), `codex/tomer`
 
 ## גמור
+
+- [x] תיקיית vibe המלאה — 20 קובצי תוכן פורסמו ואומתו ב-GitHub; הקישור פורסם בנושא Vibe Coding ב-Classroom. `issues/0010-publish-vibe-folder.md`
 
 - [x] פרויקט Vibe Coding פורסם בענף GitHub של אנליזה וב-Classroom תחת Vibe Coding. בקשת מיזוג 1 פתוחה לסקירה. `issues/0009-publish-project.md`
 
