@@ -26,4 +26,12 @@
 
 ## פתוח / הבא בתור
 
-- [ ] push ואימות מרחוק, בקשת מיזוג ופרסום קישור ב-Classroom.
+הפרסום הושלם ואומת. בקשת המיזוג נשארה פתוחה לסקירה; הקישור לסטודנטים מצביע לענף הזמין כבר כעת.
+
+## תוצאת הפרסום
+
+- GitHub: https://github.com/TomerAnliza/AI_Engineering_For_Devs_Lectures/tree/docs/tomer-vibe-coding-2026-09-10/2026_09_10_vibe_coding
+- בקשת מיזוג: https://github.com/TomerAnliza/AI_Engineering_For_Devs_Lectures/pull/1
+- Classroom: https://classroom.google.com/c/ODcxMzIzNDg1MTU5/m/ODI2MzI1MTk3MjIx/details
+
+קומיט החומרים f7e0257 אומת מרחוק עם מחבר ו-committer בזהות אנליזה. פרסום Classroom אומת במצב PUBLISHED, עם נושא Vibe Coding וקישור לענף. main לא שונה. תיעוד תפעולי נשאר בעותק המקומי.

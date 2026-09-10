@@ -1,8 +1,10 @@
 # תמונת מצב
 
-**עדכון אחרון:** 10 בספטמבר 2026 (סשן 10), `codex/tomer`
+**עדכון אחרון:** 10 בספטמבר 2026 (סשן 11), `codex/tomer`
 
 ## גמור
+
+- [x] פרויקט Vibe Coding פורסם בענף GitHub של אנליזה וב-Classroom תחת Vibe Coding. בקשת מיזוג 1 פתוחה לסקירה. `issues/0009-publish-project.md`
 
 
 
